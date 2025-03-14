@@ -14,6 +14,7 @@ This project demonstrates basic Python concepts such as user input handling, ran
 
 This Rock, Paper, Scissors game is played against the computer and is implemented in Python. It is a terminal-based game, without a GUI (yet).
 
+
 ![1](https://github.com/user-attachments/assets/263ece4f-8b6f-420f-ba98-3116fe6772ca)
 
 ![2](https://github.com/user-attachments/assets/aab364d1-4330-4e32-8ab5-e791d6bf578b)
